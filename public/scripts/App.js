@@ -6,7 +6,7 @@ class App extends React.Component {
 		super()
 	}
 	render(){
-		return <div></div>
+		return <div>Naomi is awesome</div>
 	}
 }
 
